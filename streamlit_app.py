@@ -133,7 +133,7 @@ STOCKS = [
     "XOM",
 ]
 
-DEFAULT_STOCKS = ["AAPL", "MSFT", "GOOGL", "NVDA", "AMZN", "TSLA", "META"]
+DEFAULT_STOCKS = ["AAPL", "MSFT", "GOOGL", "NVDA", "AMZN", "TSLA"]
 
 
 def stocks_to_str(stocks):
